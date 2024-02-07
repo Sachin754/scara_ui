@@ -1,0 +1,51 @@
+.settings{
+    height: 595px;
+    width: 100%;
+   background-color: lightgray;
+  
+  
+
+}
+.fa-solid.fa-wrench {
+    margin-left: 102px;
+    margin-top: 15px;
+    font-size: 65px;
+}
+
+.fa-solid.fa-toolbox{
+    margin-left: 102px;
+    margin-top: 15px;
+    font-size: 65px;
+}
+.fa-solid.fa-hammer{
+    margin-left: 102px;
+    margin-top: 15px;
+    font-size: 65px; 
+}
+
+
+.robotsetting{
+    background-color: azure;
+    height: 130px;
+    border-radius: 90px;
+    width: 750px;
+    margin-left: 116px;
+}
+.divv{
+    border-radius: 15px;
+    height: 130px;
+    background-color: azure;
+    margin-top: 25;
+    width: 260px;
+    margin-left: 30px;
+    margin-top: 100px;
+}
+
+
+
+
+
+.container{
+    display: flex;
+    margin-left: 50px;
+}

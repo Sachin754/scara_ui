@@ -1,0 +1,112 @@
+.motion{
+     background-color: lightgrey;
+     height: 600px;
+     display: flex;
+    /* width: 985px; */
+    /* margin-left: 388px;
+    margin-top: -606px; */
+}
+.robotaxis{
+    height: 600px;
+    width: 50%;
+    background-color: white;
+}
+
+.positions{
+    height: 300px;
+    width: 504px;
+    background-color: lightgray;
+}
+
+.robot3dview{
+    height: 300px;
+    width: 504px;
+    background-color: lightblue;
+}
+
+.robotcontrols{
+
+    height: 600px;
+    width: 50%;
+    background-color: #363534;
+}
+
+.worldJoint{
+    width: 107px;
+    background: antiquewhite;
+    height: 29px;
+}
+
+.WorldplusdivZ{
+display: flex;
+}
+
+.world{
+   
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.divZ{
+    margin-top: 162px;
+    margin-left: 50px;
+}
+
+
+.fa-solid.fa-up-long{
+    color:antiquewhite;
+    font-size: xxx-large;
+  
+}
+.up{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.fa-solid.fa-down-long{
+    color: antiquewhite;
+    font-size: xxx-large;
+  
+}
+.down{
+    text-align: center;
+    padding-top: 20px;
+}
+.fa-solid.fa-left-long{
+    color: antiquewhite;
+    font-size: xxx-large;
+   
+}
+.fa-solid.fa-right-long{
+    color: antiquewhite;
+    font-size: xxx-large;
+  
+}
+.leftright{
+    display: flex;
+    justify-content:center;
+}
+.leftarrow{
+    padding-right: 20px;
+}
+.rightarrow{
+    padding-left: 20px;
+}
+
+.joint{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 170px;
+}
+
+.fa-solid.fa-circle-arrow-up{
+    color: antiquewhite;
+    font-size: xxx-large;
+}
+
+
+
+
+
+
+
+
